@@ -341,3 +341,5 @@ docs/_book
 # TODO: where does this rule come from?
 test/
 
+/tweetme/__pycache__/
+/tweets/migrations/
